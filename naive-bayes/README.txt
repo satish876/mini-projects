@@ -1,4 +1,4 @@
-Dataset can me downloaed from: https://drive.google.com/file/d/1gZfkw8t4953tDpuCwG-Xl-GUEkbGPc3g/view
+Dataset can me downloaded from: https://drive.google.com/file/d/1gZfkw8t4953tDpuCwG-Xl-GUEkbGPc3g/view
 
 #First we selected the data based one the given categories according to question.
 #Then we split the data into two parts training and testing
